@@ -32,4 +32,4 @@
 
 ![image.jpg](https://github.com/Byzgaev-I/Redis-memcached/blob/main/2%20-%20start.png)
 
-![image.jpg]()
+![image.jpg](https://github.com/Byzgaev-I/Redis-memcached/blob/main/2%20-%20start%20m.png)
