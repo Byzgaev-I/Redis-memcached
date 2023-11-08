@@ -68,9 +68,22 @@ set key flags exptime bytes <value>
 
 ![image.jpeg](https://github.com/Byzgaev-I/Redis-memcached/blob/main/TTL.png)
 
+## Задание 4. Запись данных в Redis
 
+Запишите в Redis несколько ключей с любыми именами и значениями. 
+*Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
 
+---
 
+**Решение**
+
+Установил Redis
+
+![image.jpeg](https://github.com/Byzgaev-I/Redis-memcached/blob/main/Redis%20-%20start.png)
+
+**Скриншот c решением:**
+
+![image.jpeg](https://github.com/Byzgaev-I/Redis-memcached/blob/main/Redis%20Rec.png)
 
 
 
