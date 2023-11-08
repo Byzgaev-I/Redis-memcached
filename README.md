@@ -31,8 +31,6 @@
 
 ![image.jpg](https://github.com/Byzgaev-I/Redis-memcached/blob/main/2%20-%20start%20m.png)
 
-![image.jpg](https://github.com/Byzgaev-I/Redis-memcached/blob/main/2%20-%20port%20.png)
-
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
@@ -41,3 +39,39 @@
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 
 ---
+
+**Решение**
+
+Установили: 
+
+```
+sudo apt update && apt install memcached
+```
+
+Порт:
+
+![image.jpg](https://github.com/Byzgaev-I/Redis-memcached/blob/main/2%20-%20port%20.png)
+
+**подключаемся:**
+
+```
+ telnet localhost 11211
+```
+
+**вводим данные:**
+
+```
+set key flags exptime bytes <value>
+
+```
+
+
+
+
+
+
+
+
+
+
+
