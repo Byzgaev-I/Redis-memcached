@@ -64,9 +64,9 @@ sudo apt update && apt install memcached
 set key flags exptime bytes <value>
 
 ```
+**Скриншот выполнения команд:**
 
-
-
+![image.jpeg](https://github.com/Byzgaev-I/Redis-memcached/blob/main/TTL.png)
 
 
 
